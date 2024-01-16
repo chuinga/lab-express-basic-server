@@ -1,0 +1,16 @@
+{
+  "name": "lab-express-basic-server",
+  "version": "1.0.0",
+  "description": "<details>\r   <summary>\r     <h2>Learning Goals</h2>\r   </summary>",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}

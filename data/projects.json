@@ -1,19 +1,19 @@
 [
     {
-        "title": "Blackjack Game",
-        "description": "Simple blackjack game, built with vanilla JavaScript, HTML, and CSS.",
-        "image": "https://placehold.co/600x400/4265E6/FFFFFF.png?text=Project+Screenshot",
-        "github": "https://github.com/exampleuser/examplerepo",
-        "deployed": "http://example.com",
+        "title": "Gravity-Game",
+        "description": "Gravity is a game where players jump over obstacles to gain score and try to catch snacks to gain lives and also score.",
+        "image": "https://github.com/chuinga/Project-Gravity-Game/blob/main/images/game-logo.png?raw=true",
+        "github": "https://github.com/chuinga/Project-Gravity-Game",
+        "deployed": "https://chuinga.github.io/Project-Gravity-Game/",
         "techStack": ["HTML", "CSS", "JavaScript"]
     },
     {
-        "title": "Jira Clone",
-        "description": "Bootcamp group project. Full stack application built with React, JSON Server, and React Testing Library",
-        "image": "",
-        "github": "https://github.com/exampleuser/examplerepo",
-        "deployed": "http://example.com",
-        "techStack": ["React", "Node", "JSON Server", "React Testing Library"]
+        "title": "Pawsitive-Homes",
+        "description": "Pawsitive Homes is an online, searchable database of animals who need a home.",
+        "image": "/MainLogo.png",
+        "github": "https://github.com/Ksfraan/Pawsitive-Homes",
+        "deployed": "https://main--pawsitivehomes.netlify.app/",
+        "techStack": ["React", "JSON Server", "CSS"]
     },
     {
         "title": "Cohort Tools",
